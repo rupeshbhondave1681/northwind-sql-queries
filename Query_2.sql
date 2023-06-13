@@ -1,6 +1,6 @@
 /*Query2:Find all suppliers who provide products in the ‘Seafood’ category
 
-  Schema Description:In this query, I have select the supplier_id and contact_name as a Suppliers_name columns from the Suppliers table.
+  Query Description:In this query, I have select the supplier_id and contact_name as a Suppliers_name columns from the Suppliers table.
          I have use a subquery to retrieve the supplier_id values from the categories table for products in the 'Seafood' category. 
          The outer query then filters the suppliers based on those supplier_id values using the IN operator
 */
