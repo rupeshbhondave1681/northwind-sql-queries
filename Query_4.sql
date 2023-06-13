@@ -1,6 +1,6 @@
 /*Query4:Find the total sales (Quantity*Unit_Price) for each category of products.
  
-Schema Description:In this query i have used  query to  joins the "Products" table with the "Categories" table based on the matching "CategoryID" column.
+Query Description:In this query i have used  query to  joins the "Products" table with the "Categories" table based on the matching "CategoryID" column.
            It then calculates the total sales for each category by multiplying the quantity
            and unit price for each product and summing the results. Then result is grouped by "CategoryID" and "CategoryName" 
            to give the total sales for each category.
