@@ -1,6 +1,6 @@
 /*Query2:Get the total quantity of each product sold.
 
-  Schema Description: In this query, I have select the product_id column from the OrderDetails table.
+  Query Description: In this query, I have select the product_id column from the OrderDetails table.
           use the SUM() function to calculate the total quantity sold by summing the quantity column.
           then i have use the GROUP BY clause to group the results by the product_id.
 */
